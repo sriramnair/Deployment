@@ -18,3 +18,9 @@ h1{
     justify-content: center;
 }
 
+.butoooon{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
